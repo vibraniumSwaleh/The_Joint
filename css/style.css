@@ -220,7 +220,7 @@ body {
 }
 
 .meal {
-  box-shadow: 0 2.4rem 4.8rem rgba(0 , 0, 0, 0.075);
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
   border-radius: 11px;
   overflow: hidden;
 }
@@ -236,12 +236,25 @@ body {
   font-size: 1.2rem;
   text-transform: uppercase;
   font-weight: 600;
-  background-color: #51cf66;
   color: #333;
   border-radius: 50px;
 }
 
+.tag--vegeterian {
+  background-color: #51cf66;
+}
+
+.tag--vegan {
+  background-color: #94d82d;
+}
+
+.tag--paleo {
+  background-color: #ffd43b;
+}
+
 .meal-tags {
+  display: flex;
+  gap: 0.4rem;
   margin-bottom: 1.2rem;
 }
 
