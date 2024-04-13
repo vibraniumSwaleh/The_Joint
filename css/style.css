@@ -372,9 +372,14 @@ body {
 }
 
 .pricing-plan {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  background-color: #fae5d3;
+  border-radius: 11px;
+  padding: 4.8rem;
+  width: 75%;
+}
+
+.pricing-plan--starter {
+  justify-self: end;
 }
 
 .plan-header {
