@@ -1,6 +1,7 @@
 # The Joint
 
 ## About The Joint
+![The Joint Main page](/img/The%20Joint-1-min.png)
 
 The Joint is a technology-first company with a primary focus on promoting consumer well-being through a healthy diet. In today's fast-paced world, many individuals find it challenging to maintain a balanced diet due to their busy schedules. This can result in long-term health consequences. The Joint aims to address this issue by leveraging an AI-centric approach.
 
