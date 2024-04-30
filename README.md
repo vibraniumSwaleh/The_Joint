@@ -4,6 +4,8 @@
 
 The Joint is a technology-first company with a primary focus on promoting consumer well-being through a healthy diet. In today's fast-paced world, many individuals find it challenging to maintain a balanced diet due to their busy schedules. This can result in long-term health consequences. The Joint aims to address this issue by leveraging an AI-centric approach.
 
+![The Joint Testimonials](/img/The_Joint-3-min.png)
+
 Users can utilize our application to specify their dietary preferences, including foods they enjoy and those they wish to avoid. Our AI algorithm then generates a personalized weekly meal plan tailored to each user's unique requirements. But our commitment doesn't end there. We collaborate with restaurants and other culinary partners to prepare and deliver all meals from the generated plans in selected cities. This service is offered through a convenient monthly subscription model, allowing users to select between receiving one or two meals per day throughout the month.
 
 ## The Joint Features
@@ -19,6 +21,8 @@ Users can utilize our application to specify their dietary preferences, includin
 - HTML
 - JavaScript
 - CSS
+
+![The Joint Mobile Responsive UI](/img/The_Joint-4-min.png)
 
 ## Installation
 
