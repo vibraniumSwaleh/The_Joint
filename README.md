@@ -9,7 +9,9 @@ The Joint is a technology-first company with a primary focus on promoting consum
 Users can utilize our application to specify their dietary preferences, including foods they enjoy and those they wish to avoid. Our AI algorithm then generates a personalized weekly meal plan tailored to each user's unique requirements. But our commitment doesn't end there. We collaborate with restaurants and other culinary partners to prepare and deliver all meals from the generated plans in selected cities. This service is offered through a convenient monthly subscription model, allowing users to select between receiving one or two meals per day throughout the month.
 
 ## The Joint Features
-![The Joint Features](/img/The_Joint-5-min.png)
+<p align="center">
+  <img src="/img/The_Joint-5-min.png" width="400" alt="The Joint Features">
+</p>
 
 - **Never Cook Again!**: Our subscriptions cover 365 days per year, including major holidays, freeing users from the hassle of cooking.
 - **Local and Organic**: Our culinary team exclusively utilizes local, fresh, and organic ingredients to prepare your meals, ensuring both quality and sustainability.
