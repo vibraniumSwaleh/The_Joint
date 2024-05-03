@@ -24,12 +24,13 @@ Users can utilize our application to specify their dietary preferences, includin
 
 <!-- ![The Joint Mobile Responsive UI](/img/The_Joint-4-min.png) -->
 
-<p style="text-align: center;">
+<div style="text-align: center;">
   <img
     src="/img/The_Joint-4-min.png"
+    width="400"
     alt="The Joint Mobile Responsive UI"
   />
-</p>
+</d>
 
 ## Installation
 
